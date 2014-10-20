@@ -4,7 +4,7 @@
  */
 public class RRPSS {
 	public static void main(String[] args) {
-		System.out.print("sdaf");
+		System.out.print("sdadsf");
 		
 		return;
 	}
