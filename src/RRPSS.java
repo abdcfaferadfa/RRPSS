@@ -3,6 +3,6 @@
  */
 public class RRPSS {
 	public static void main(String[] args) {
-		return;
+		System.out.print("sdaf");
 	}
 }
